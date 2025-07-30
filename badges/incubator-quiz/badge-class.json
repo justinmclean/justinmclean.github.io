@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://justinmclean.github.io/badges/incubator-quiz/badge-class.json",
+  "name": "Incubator Quiz Completed",
+  "description": "Awarded for successfully completing the Incubator Training Quiz covering IPMC responsibilities, podling oversight, ASF-style governance, and compliance essentials.",
+  "image": "https://justinmclean.github.io/badges/incubator-quiz/incubator-quiz-badge.png",
+  "criteria": {
+    "narrative": "The recipient completed all required modules and passed the Incubator Quiz with a satisfactory score."
+  },
+  "issuer": "https://justinmclean.github.io/badges/incubator-quiz/issuer.json"
+}

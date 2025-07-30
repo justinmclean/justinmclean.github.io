@@ -1,0 +1,8 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://justinmclean.github.io/badges/incubator-quiz/issuer.json",
+  "name": "Open Source Icubator PMC Training",
+  "url": "https://justinmclean.github.io/badges",
+  "email": "justin@classsoftware.com"
+}

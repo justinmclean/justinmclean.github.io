@@ -4,7 +4,7 @@
   "id": "https://justinmclean.github.io/badges/incubator-mentor/badge-class.json",
   "name": "IPMC Mentor Training",
   "description": "Awarded for completion of the Apache Incubator PMC's Mentor Training Quiz.",
-  "issuer": "https://justinmclean.github.io/badges/incubator-mentor",
+  "issuer": "https://justinmclean.github.io/badges/incubator-mentor/issuer.json",
   "criteria": {
     "narrative": "The recipient has completed all mentor training quizzes and modules designed for new and existing IPMC mentors."
   },

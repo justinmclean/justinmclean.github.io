@@ -4,9 +4,9 @@
   "id": "https://justinmclean.github.io/badges/incubator-quiz/assertions/assertion-001.json",
   "recipient": {
     "type": "email",
+    "identity": "sha256$a1986d5ba1008968aa52cb40c67b2dbae93aba44cb65ac8a109d44b7f5669197",
     "hashed": true,
-    "salt": "random-salt",
-    "identity": "sha256$121eacc3d632f9676bc880d29edd4fb4e9f0ffbf41baa9bd619daa8eedce76a6"
+    "salt": "0453cc925c844bd7"
   },
   "badge": "https://justinmclean.github.io/badges/incubator-quiz/badge-class.json",
   "verification": {

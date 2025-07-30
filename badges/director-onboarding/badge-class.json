@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://justinmclean.github.io/badges/director-onboarding/badge-class.json",
+  "name": "ASF Director Onboarding Training",
+  "description": "Awarded for completion of the ASF Board of Directors onboarding training program.",
+  "issuer": "https://justinmclean.github.io/badges/director-onboarding/issuer.json",
+  "criteria": {
+    "narrative": "The recipient has completed all required training materials for ASF Board members, including governance, policy, and responsibilities."
+  },
+  "image": "https://justinmclean.github.io/badges/director-onboarding/director-onboarding-badge.png"
+}

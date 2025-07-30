@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://justinmclean.github.io/badges/director-onboarding/assertions/assertion-director-001.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "identity": "sha256$121eacc3d632f9676bc880d29edd4fb4e9f0ffbf41baa9bd619daa8eedce76a6"
+  },
+  "badge": "https://justinmclean.github.io/badges/director-onboarding/badge-class.json",
+  "verification": {
+    "type": "Hosted"
+  },
+  "issuedOn": "2025-07-30T04:34:27.478463Z"
+}

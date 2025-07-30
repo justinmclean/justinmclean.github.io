@@ -1,0 +1,8 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://justinmclean.github.io/badges/director-onboarding",
+  "name": "Justin Mclean",
+  "url": "http://linkedin.com/in/justinmclean/",
+  "email": "justin@classsoftware.com"
+}

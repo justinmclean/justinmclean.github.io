@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://justinmclean.github.io/badges/incubator-mentor/assertions/assertion-mentor-001-nosalt.json",
+  "id": "https://justinmclean.github.io/badges/incubator-mentor/assertions/assertion-mentor-001.json",
   "recipient": {
     "type": "email",
     "hashed": true,

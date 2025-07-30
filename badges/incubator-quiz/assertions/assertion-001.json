@@ -4,7 +4,7 @@
   "id": "https://justinmclean.github.io/badges/incubator-quiz/assertions/assertion-001.json",
   "recipient": {
     "type": "email",
-    "identity": "sha256$30e6c04e2911fe881b8e7fc41dd3775366bc513de0fae5119c2f5c6b8806e03f",
+    "identity": "sha256$121eacc3d632f9676bc880d29edd4fb4e9f0ffbf41baa9bd619daa8eedce76a6",
     "hashed": true
   },
   "badge": "https://justinmclean.github.io/badges/incubator-quiz/badge-class.json",
